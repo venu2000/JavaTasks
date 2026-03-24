@@ -8,12 +8,7 @@ public class Student {
 	private String studentId;
 	private String name;
 	private int marks;
-	
-	
 
-	
-	
-	
 	
 	public Student(String studentId, String name, int i) {
 	

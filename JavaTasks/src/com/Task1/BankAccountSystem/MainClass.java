@@ -9,9 +9,10 @@ public class MainClass {
 		
 	
 		
+      bankAccount1.checkBalance();
       
        double deposite = bankAccount1.deposite(50000);
-       System.out.println(deposite );
+       System.out.println("Total amount after Deposited "+deposite );
        
        
       bankAccount1.withDraw(20000);
